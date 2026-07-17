@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+streamlit
+pandas
+plotly
+google-genai
+python-dotenv
+=======
+streamlit
+pandas
+plotly
+google-genai
+python-dotenv
+>>>>>>> b73e359cc03f398f4fdb78f6d14b07f747524cad
+reportlab
